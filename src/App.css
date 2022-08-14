@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  font-size: 24px;
+  height: 48px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+button:hover {
+  background: #ff90e8;
+  color: black;
+}
